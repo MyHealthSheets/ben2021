@@ -1,0 +1,134 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="scripts/myhs_styles.css"/>
+	<!-- <link rel="stylesheet" href="bootstrap-4.3.1-dist/scss/custom.scss"> -->
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <title>Ben's Website</title>
+</head>
+<body>
+
+
+<div class="container-fluid" style="margin-top:15rem">
+	<div class="my_tabs">
+	  <button class="tablinks" onclick="openEx(event, 'general')"id="general"><h4>General Experience</h4></button>
+	  <button class="tablinks" onclick="openEx(event, 'raspi')"><h4>Raspberry Pi</h4></button>
+	  <button class="tablinks" onclick="openEx(event, 'webb_apps')"><h4>Web Applications</h4></button>
+	  <button class="tablinks" onclick="openEx(event, 'mobile_apps')"><h4>Mobile Applications</h4></button>
+	</div>
+
+
+	<div id="general" class="tab_content">
+		<div class="card">
+			<h4 class="card-header">Software Programming Diploma</h4>
+			<div class="card-body">
+				 <p>I have always been interesting in Electronics and Computers. It probably started>
+		                      I often left them in pieces or put back together with one or more parts missing>
+		                  </p>
+		                  <p>
+		                      From there I worked in various industries utilizing these skills until realizin>                      wanted to do was work with Computers and Computer Software.
+		                  </p>
+		                  <p>
+		                    I received my Software Programming Diploma in 2012 and have been continuing to le>                    opportunity I get.
+		                  </p>
+		                <p>
+		                    The Electronics industry has changed consderably since I graduated in 2004, and t>                    and SoC circuits like Arduino and picoPY. I have created simple LED lights workin>                    projects with Bluetooth and Audio Amplifiers.
+		                </p>
+		                <p>
+		                    For a more fullstack programming experience I have created many projects with SBC>                    projects ranging from a Car Entertainment System, Open Source Home Automation Sof>                    with many others. The Raspberry Pi has also allowed me to work through the Comman>                    get forgetten.
+		                </p>	
+			</div>
+		</div>
+	</div>
+
+	<div id "raspi" class="tab_content">
+		<div class="card">
+			<div class="card-header">
+				<h3>Some more Recent Raspbery Pi Projects</h3>
+			</div>
+		<div class="card-body">
+			<ul style="list-style-type:none">
+		 	<li> <h5>OpenHAB (Smart Home Server)</h5>
+				 <p> Open Source PHP Web Application is a tool to setup and control Smart Home
+				devices from a Web Browser. <br><a href="https://www.openhab.org/" Use target="_blank"> Click this link to learn more about OpenHAB</a>
+			  	</p><hr>
+				
+		  	<li>
+				<h5>Personal PHP Web site projects </h5>
+				<p>I have been developing a couple PHP based Web sites/applications for practice.
+				This site is a simple PHP application, however I also have a demo Web Application for myhealthsheets.com. I do most of my dev work on my Raspberry Pi, then push this to a Web Server when ready for production.
+				</p> 
+				<hr>
+			</li>
+			<li>
+				<h5>Personal Ebook Server using Calibre</h5>
+				<p>Browse, Download, Upload my book library and read direct from Web Browser
+				</p> 
+			</li><hr>  
+			<li>
+			<h5>Owncloud Server</h5>
+				<p> Personal File Server similar to Dropbox and other Applications. This allows me to share files with family and friends without any free tier storage size limitations.
+	                </li><hr>			
+
+			<li>
+			<h5>Druapal Web Application</h5>
+                        <p>Created some basic Drupal Applications for practice. 
+			<a href="https://www.drupal.org/" Use target="_blank"> Visit Drupal.org for
+			more details.</a>
+                        </p>
+                	</li><hr>
+	                <li>
+			 <h5>MiniDLNA, Plex and Kodi Media Servers</h5>
+                        <p>I worked various technologies like this in order to share media content across my home network. These applications allow any TV or monitor attached to the network to 
+			browse and watch any type of Media Content. <a href="https://pimylifeup.com/raspberrypi-minidlna/" Use target="_blank">This link will take you to a great doc on how to setup miniDLNA
+                        more details.</a>
+                        </p>
+                 	</li><hr>
+		 	<li>
+                 	<h5>RetroPIE - EmulationStation for Raspberry Pi</h5>
+			<p>This turns any Raspi into a retro-gaming machine. Allows you to play just about
+			all retro gaming consoles through your raspberry Pi.This is a fun project that you can
+			also setup with NES or other type cases and utilize BT joysticks that look like
+			retro controllers. 
+                        <a href="https://retropie.org.uk/" Use target="_blank">Start
+			here for more details.</a>
+                        </p>
+                 	</li><hr>
+			<h5>Python Scripts and other General Command Line Tools</h5>
+                        <p>I have worked and am working on many other Projects I just haven't named here yet. I also like to use Raspberry Pi as I work with Python. I have created various Pyton Scripts
+			as practice. Some examples are scripts to automated photos from a Raspi Camera, Simple Remote Control Car (using a car kit with 4 wheels/motors), and still various examples.
+                        <a href="https://retropie.org.uk/" Use target="_blank">Start
+                        here for more details.</a>
+                        </p>
+			</ul>
+	  	</div>
+	</div>
+
+
+
+</div>
+
+
+<script>
+	
+		function openEx(evt, cat) {
+		  var i, tabcontent, tablinks;
+		  tabcontent = document.getElementsByClassName("tabcontent");
+		  for (i = 0; i < tabcontent.length; i++) {
+			tabcontent[i].style.display = "none";
+		  }
+		  tablinks = document.getElementsByClassName("tablinks");
+		  for (i = 0; i < tablinks.length; i++) {
+			tablinks[i].className = tablinks[i].className.replace(" active", "");
+		  }
+		  document.getElementById(cat).style.display = "block";
+		  evt.currentTarget.className += " active";
+		}
+		document.getElementById("test").click();
+</script>
+<body>
+</html>

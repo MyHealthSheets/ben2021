@@ -1,7 +1,7 @@
 .jumbotron
 {
-/*	background-image: url('/images/droplets.jpg'); */
-	background-color: #697184;
+/*	background-image: url('/images/Turtle.jpg'); */
+	background-color: #697184; 
 	color:#black;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
@@ -19,8 +19,8 @@
     color:black;
 }
 
-.main{
-	background-color:#B1A6A4;
+.main
+	background-color:#413F3D;
 }
 
 body{
@@ -61,6 +61,7 @@ body{
 	padding-top:8rem;
 	text-align:center;
 	background-color:#413F3D;
+/*	background-color:#413F3D; */
 	padding-left:0rem;
 
 }
