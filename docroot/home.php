@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include "header.php"; ?>
+<?php include "nav/header.php"; ?>
 <html>
 <body>
-    <?php include "menu.php"; ?>
+    <?php include "nav/menu.php"; ?>
+    <?php include "home/home_jumbo.php"; ?>
 <div class="main-body">
-    <p> teST tesT teST </p>
 </div>
 </body>
 </html>
