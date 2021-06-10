@@ -7,7 +7,7 @@
 	text-align:center;
 	/* box-shadow: 2px 2px 2px black; */
 	padding: 5rem 5rem 0rem 5rem;
-	margin-bottom:5rem;
+	margin-bottom:8rem;
 }
 
 .jumbotron .lead .p{
@@ -19,11 +19,16 @@
     color:black;
 }
 
+.wrapper{
+	background-color:#D5D6D2;
+}
+
 .main
 	background-color:#353C3F;
 }
 
 body{
+	background-color:#D5D6D2;
 	 /* background-image: linear-gradient(to top, #222629 , #e6e6e6); */
 }
 
@@ -71,8 +76,8 @@ h5 {
 	font-weight:bold;
 }
 .page-footer{
-	background-color:#353C3F;
-	color:#D5D6D2;
+	background-color:#D5D6D2;
+	color:black;
 }
 a{
 	color:black;

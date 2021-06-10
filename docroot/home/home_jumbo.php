@@ -1,4 +1,4 @@
-<div class="jumbotron jumbrotron-fluid" style="border-radius:0px;border-top:2px solid #FF8D3F;padding-bottom:5rem;">
+<div class="jumbotron jumbrotron-fluid" style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-3">
