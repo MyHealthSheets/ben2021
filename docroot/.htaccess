@@ -1,0 +1,12 @@
+NameVirtualHost *:80
+
+<VirtualHost 192.168.0.108:80>
+#ServerAdmin webmaster@example1.com
+DocumentRoot /var/www/ben2021/docroot/home.php
+ServerName bedeadu.ddns.net
+</VirtualHost>
+#<VirtualHost 192.168.22.18:80>
+#ServerAdmin admin@example2.com
+#DocumentRoot /var/www/html/
+#ServerName www.example2.com
+</VirtualHost>

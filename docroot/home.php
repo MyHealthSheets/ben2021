@@ -7,7 +7,7 @@
     <?php include "nav/menu.php"; ?>
     <?php include "home/home_jumbo.php"; ?>
 <div class="main-body">
- 	<?php include "home/home_main.php"; ?>
+ 	<?php include "home/main.php"; ?>
 </div>
 </body>
 	<?php include "nav/footer.php"; ?>
