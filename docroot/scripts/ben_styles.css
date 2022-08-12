@@ -2,7 +2,7 @@
 {
 /*	background-image: url('/images/Turtle.jpg'); */
 	font-family:Comic Sans MS;
-	background-color: #353C3F; 
+	background-color: #756867; 
 	color:black;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
@@ -21,7 +21,9 @@
 }
 
 .wrapper{
-	background-color:#D5D6D2;
+/*	background-color:#D5D6D2; */
+	background-color:#353C3F;
+/*E4E3E3;756867	*/
 }
 
 .main
@@ -30,15 +32,17 @@
 
 
 body{
-	background-color:#B1A6A4; 
+	background-color:#FF8D3F;
+
+/*#B1A6A4; 
 	 /* background-image: linear-gradient(to top, #222629 , #e6e6e6); */
 }
 .card{
 	font-family:Comic Sans MS;
-	background-color:#353C3F;
+	background-color:#756867;
 	color:#D8CFD0;
 	text-align:left;
-	padding:6.5rem;
+	padding:0rem;
 	margin:1rem 0rem 5rem 0rem;
 /*	border-radius:1px 1px 1px 1px; 
 	box-shadow: 1px 1px 3px black inset;
@@ -54,9 +58,12 @@ body{
 }	
 .card-header, .card-header:first-child{		
 	padding-top:2rem;
+	margin:0rem;
 	padding-bottom:2rem;
 	color:red/*D8CFD0*/;
 	text-align:center;
+/*	background-color:#B9B6B5;*/
+	background-color:#FF8D3F;
 /*	background-color:#413F3D;
 	border-radius:1px 1px 0 0;
 	box-shadow: 3px 1px 1px #353C3F;
@@ -67,7 +74,7 @@ body{
 .card-body{
 	text-align:center;
 	margin: 3rem 0rem 3rem 0rem;
-	padding:1rem;
+	padding:0.5rem;
 }
 
 .main-body {
@@ -81,7 +88,12 @@ body{
 	padding-left:0rem;
 
 } 
-
+h1{
+	color:#FF8D3F;	
+}
+h3{
+	color:black;
+}
 h5 {
 	font-weight:bold;
 }
