@@ -2,13 +2,13 @@
 {
 /*	background-image: url('/images/Turtle.jpg'); */
 	font-family:Comic Sans MS;
-	background-color: #756867; 
-	color:black;	
+	background-color: #353C3F; 
+	color:grey;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
 	/* box-shadow: 2px 2px 2px black; */
-	padding: 5rem 5rem 0rem 5rem;
-	margin-bottom:10rem;
+	padding: 2rem 2rem 0rem 1rem;
+	margin-bottom:0.5rem;
 }
 
 .jumbotron .lead .p{
@@ -47,6 +47,7 @@ body{
 /*	border-radius:1px 1px 1px 1px; 
 	box-shadow: 1px 1px 3px black inset;
 */
+box-shadow: 1px 2px 10px black inset;
 }
 
 .card-text{
@@ -68,6 +69,7 @@ body{
 	border-radius:1px 1px 0 0;
 	box-shadow: 3px 1px 1px #353C3F;
 	box-shadow:2px 5px 5px black outset; */
+box-shadow: 1px 2px 5px black inset;
 }
 
 
@@ -108,3 +110,21 @@ a{
 a:link{}
 a:active{color:black;}
 a:hover{color:#FF8D3F}
+
+.accordion{
+	padding:5rem 2rem 5rem 2rem;
+	margin: 0rem 2rem 5rem 2rem;
+	color:white;
+	background-color:#756867;
+	box-shadow: 1px 2px 10px black inset;
+}
+
+.accordion-body{
+	border-radius;20rem;
+	background-color:#353C3F;
+	color:#D8CFD0;
+	box-shadow: 1px 1px 1px black inset;
+}
+.accordion-button{
+text-align: left;
+}
