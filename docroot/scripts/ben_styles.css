@@ -26,7 +26,7 @@
 /*E4E3E3;756867	*/
 }
 
-.main
+.main {
 	background-color:#353C3F;
 }
 
@@ -120,7 +120,7 @@ a:hover{color:#FF8D3F}
 }
 
 .accordion-body{
-	border-radius;20rem;
+	border-radius:20rem;
 	background-color:#353C3F;
 	color:#D8CFD0;
 	box-shadow: 1px 1px 1px black inset;
