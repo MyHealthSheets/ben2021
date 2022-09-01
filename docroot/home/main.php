@@ -170,8 +170,8 @@ Recent Raspberry Pi Projects      </button>
 
 	<div class="card">
 	    	<div class="card-header">
-	            <button class="btn btn-Dark" data-toggle="collapse" data-target="#collapsePi"  aria-controls="collapsePi">
-	            <h3>Recent Raspbery Pi Projects</h3>
+	            <button class="btn btn-Dark" data-toggle="collapse" data-bs-toggle="collapse"  >
+	            <h3>Raspbery Pi Projects</h3>
         	</div>
 	    	<div class="card-body" id="collapsePi" style="text-align:center;">
         	<ul style="list-style-type:none">
