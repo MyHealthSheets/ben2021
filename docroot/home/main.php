@@ -4,8 +4,7 @@
 			<!--		<a class="collapsed card-link" data-toggle="collapse" href="#collapseGen">
 -->						<h3><b>General Background</b></h3>
 				</div>
-
-				<div id="collapseGen" class="collapse" data-parent="#accordion">
+			<!--	<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 					<div class="card-body">
 						<p class="card-text">I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
 							I often left them in pieces or put back together with one or more parts missing. I think partly seeing these boxes of broken Electronics is what ultimately helped me decide to go to college and graduate with an Electronics Technologist Diploma. 
@@ -30,17 +29,16 @@
 							get forgetten.
 						</p>
 					</div>
-				</div>
 			</div>
 		
 
 			<div class="card">
 				<div class="card-header">
-						<a class="collapsed card-link" data-toggle="collapse" href="#collapsePi">
-					<!--	<button class="btn btn-Dark" data-toggle="collapse" data-bs-toggle="collapse"  >
+				<!--		<a class="collapsed card-link" data-toggle="collapse" href="#collapsePi">
+						<button class="btn btn-Dark" data-toggle="collapse" data-bs-toggle="collapse"  >
 			     -->   <h3>Raspbery Pi Projects</h3>
 				</div>
-				<div id="collapsePi" class="collapse" data-parent="#accordion">
+		<!--		<div id="collapsePi" class="collapse" data-parent="#accordion"> --> 
 					<div class="card-body" style="text-align:center;">
 						<ul style="list-style-type:none">
 						<li> <h5>OpenHAB (Smart Home Server)</h5>
@@ -100,7 +98,6 @@
 						</li><hr style="background-color:#FF8D3F;margin: 1rem 5rem 1rem 5rem;">
 						</ul>
 					</div>
-				</div>
 			</div>
 
 			<div class="card">
@@ -125,7 +122,7 @@
 						<h3>Mobile Applications </h3>
 					</div>
 					<div class="card-body" style="text-align:left;">
-						<ul style=>
+						<ul>
 						<li><b></b>I have spent several years working on personal Mobile Application Projects, mostly using Android. This experience
 							has helped me understand Mobile Application Life Cycles, proper practices laid out of the OS creators and more.
 						</li>
