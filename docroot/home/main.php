@@ -31,6 +31,7 @@
 					</p>
 				</div>
 			</div>
+		</div>
 	</div>
 
 	<div class="card">
@@ -65,12 +66,12 @@
 	            	</li><hr style="background-color:#FF8D3F;margin: 1rem 5rem 1rem 5rem;">
 
 		    	<li>
-                		<h5>Druapal Web Application</h5>
+                		<h5>Drupal Web Application</h5>
                             	<p>Created some basic Drupal Applications for practice. 
 	                    		<a href="https://www.drupal.org/" Use target="_blank"> Visit Drupal.org for
 	                    		more details.</a>
                             	</p>
-			</li>
+					</li>
                     		<hr style="background-color:#FF8D3F;margin: 1rem 5rem 1rem 5rem;">
                     	<li>
 	                	<h5>MiniDLNA, Plex and Kodi Media Servers</h5>
