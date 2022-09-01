@@ -99,6 +99,7 @@
     		    	</li><hr style="background-color:#FF8D3F;margin: 1rem 5rem 1rem 5rem;">
         	    	</ul>
         	</div>
+			</div>
 	</div>
 
 	<div class="card">
