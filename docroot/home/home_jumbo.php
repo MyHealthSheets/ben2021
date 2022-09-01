@@ -1,5 +1,6 @@
-<div class="jumbotron jumbrotron-fluid" style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;">
-    <div class="container-fluid">
+ <div class="p-5 text-center" style="background-color:#756867">
+<!--   <div class="jumbotron jumbrotron-fluid" style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;">
+ -->    <div class="container-fluid">
         <div class="row">
 <!--            <div class="col-lg-3">
                 <img src="images/me_ish.jpg" width="250px" height="305px";>
