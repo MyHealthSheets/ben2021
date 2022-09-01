@@ -4,7 +4,7 @@
 <!--					<a class="collapsed card-link" data-toggle="collapse" href="#collapseGen">	-->					
 					<h3><b>General Background!!!</b></h3> 
 				</div>
-				<div id="collapseGen" class="collapse" data-parent="#accordion">  
+		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 					<div class="card-body">
 						<p class="card-text">I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
 							I often left them in pieces or put back together with one or more parts missing. I think partly seeing these boxes of broken Electronics is what ultimately helped me decide to go to college and graduate with an Electronics Technologist Diploma. 
