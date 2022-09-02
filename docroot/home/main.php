@@ -1,10 +1,9 @@
 	<div class="container">
 		<div class="card">
-				<div class="card-header">				
-				<h2>
-					<a class="btn" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">General Background</a>
-				</h2> 
-				</div>
+				<a class="card-header" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
+					
+						General Background
+				</a>
 		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 				<div class="collapse multi-collapse" id="GenCollapse">
 					<div class="card card-body">
