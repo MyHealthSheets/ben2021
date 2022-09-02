@@ -87,7 +87,7 @@
 									<a href="https://retropie.org.uk/" Use target="_blank">Start
 							here for more details.</a>
 									</p>
-						</li><hr >
+						</li><hr>
 						<li>
 							<h5>Python Scripts and other General Command Line Tools</h5>
 									<p>I have worked and am working on many other Projects I just haven't named here yet. I also like to use Raspberry Pi as I work with Python. I have created various Pyton Scripts
