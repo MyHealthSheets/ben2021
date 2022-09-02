@@ -119,7 +119,6 @@
 			</div>
 
 			<div class="card">
-				<div class="card-header">
 					<a class="card-header" data-bs-toggle="collapse" href="#MobileCollapse" role="button" aria-expanded="false" aria-controls="MobileCollapse">
 						<h2>Mobile Apps</h2>
 					</a>
