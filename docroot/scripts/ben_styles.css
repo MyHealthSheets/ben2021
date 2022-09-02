@@ -2,7 +2,7 @@
 	background-color:#479761;
 	color:#19181A;	
 	padding:2rem 0rem 2rem 0rem;
-	border-top:5px solid #19181A;
+	border-top:5px solid #A16E83;
 }
 
 .jumbotron
@@ -15,8 +15,8 @@
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
 	padding: 2rem;
-	border-top:5px solid #19181A;
-	border-bottom:5px solid #CEBC81;
+	border-top:5px solid #A16E83;
+	border-bottom:5px solid #A16E83;
 	box-shadow: 1px 1px 3px black inset;
 
 }
@@ -51,7 +51,7 @@ body{
 }
 .card{
 	font-family:Comic Sans MS;
-	background-color:#A16E83;
+	background-color:#B19F9E;
 	color:#19181A;
 	text-align:left;
 	padding:0rem;
@@ -125,7 +125,7 @@ a{
 	font-weight:bold;
 }
 hr{
-	border-bottom:3px solid #CEBC81;
+	border-bottom:3px solid #A16E83;
 }
 
 a:link{}
