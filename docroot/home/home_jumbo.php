@@ -13,9 +13,9 @@
         </div>
             <hr><hr>
             <div class="col-lg-7 justify-content-center">
-                <p><
+                <p>
                     Hello! I created this site to keep a record of the projects I have been working on ver the years.     
-                /p>
+<               /p>
             </div>
                 <pre style="color:#19181A;">  
         .--.
