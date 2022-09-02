@@ -5,7 +5,11 @@
 					<h2><b>General</b></h2> 
 				</div>
 		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
-					<div class="card-body">
+
+				<div class="collapse multi-collapse" id="GenCollapse">
+					<a class="btn btn-primary" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">General Background</a>
+
+					<div class="card card-body">
 						<p class="card-text">I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
 							I often left them in pieces or put back together with one or more parts missing. I think partly seeing these boxes of broken Electronics is what ultimately helped me decide to go to college and graduate with an Electronics Technologist Diploma. 
 						</p>
@@ -29,8 +33,9 @@
 							get forgetten.
 						</p>
 					</div>
+				</div>
 			</div>
-		
+					
 
 			<div class="card">
 				<div class="card-header">
