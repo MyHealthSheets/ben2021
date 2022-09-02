@@ -14,7 +14,7 @@
             <hr>
             <div class="col-lg justify-content-center">
                 <p>
-                    Hello! I created this site to keep a record of the projects I have been working on ver the years.     
+                    Hello! I created this site to keep a record of the projects I have been working on over the years.     
                 </p>
             </div>
                 <hr>
