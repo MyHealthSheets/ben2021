@@ -1,10 +1,8 @@
 	<div class="container">
 		<div class="card">
-				<a class="card-header" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
-					
+				<a class="card-header" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="GenCollapse">
 						<h2>General Background</h2>
 				</a>
-		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 				<div class="collapse multi-collapse" id="GenCollapse">
 					<div class="card card-body">
 						<p class="card-text">I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
@@ -35,13 +33,11 @@
 					
 
 			<div class="card">
-				<div class="card-header">
-				<!--		<a class="collapsed card-link" data-toggle="collapse" href="#collapsePi">
-						<button class="btn btn-Dark" data-toggle="collapse" data-bs-toggle="collapse"  >
-			     -->   <h2>Raspbery Pi Projects</h2>
-				</div>
-		<!--		<div id="collapsePi" class="collapse" data-parent="#accordion"> --> 
-					<div class="card-body" style="text-align:center;">
+				<a class="card-header" data-bs-toggle="collapse" href="#PiCollapse" role="button" aria-expanded="false" aria-controls="PiCollapse">
+					<h2>Raspbery Pi Projects</h2>
+				</a>
+				<div class="collapse multi-collapse" id="PiCollapse">	
+				<div class="card-body" style="text-align:center;">
 						<ul style="list-style-type:none">
 						<li> <h5>OpenHAB (Smart Home Server)</h5>
 							<p> Open Source PHP Web Application is a tool to setup and control Smart Home
@@ -100,6 +96,7 @@
 						</li><hr >
 						</ul>
 					</div>
+				</div>
 			</div>
 
 			<div class="card">
