@@ -1,5 +1,5 @@
 .navbar{
-	background-color:#97CAEF;
+	background-color:#479761;
 	color:#19181A;	
 	padding:2rem 0rem 2rem 0rem;
 	border-top:5px solid #A16E83;
@@ -10,7 +10,7 @@
 /*	background-color:#D5D6D2; 
  	style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	font-family:Comic Sans MS;
-	background-color: #4C4445; 
+	background-color: #CEBC81; 
 	color:#19181A;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
@@ -51,7 +51,7 @@ body{
 }
 .card{
 	font-family:Comic Sans MS;
-	background-color:#97CAEF;
+	background-color:#B19F9E;
 	color:#19181A;
 	text-align:left;
 	padding:0rem;
