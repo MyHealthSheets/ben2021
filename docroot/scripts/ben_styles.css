@@ -1,7 +1,8 @@
 .navbar{
-	background-color:#479761
-
+	background-color:#479761;
+	color:#19181A;	
 }
+
 .jumbotron
 {
 /*	background-color:#D5D6D2; 
@@ -11,8 +12,8 @@
 	color:#19181A;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
-	padding: 2rem 2rem 0rem 1rem;
-	margin-bottom:0.5rem;
+	padding: 5rem 5rem 0rem 1rem;
+	margin-bottom:1rem;
 }
 
 .jumbotron .lead .p{
@@ -97,20 +98,20 @@ box-shadow: 1px 2px 5px black inset;
 
 } 
 h1{
-	color:#B19F9E;	
+	color:#19181A;	
 }
 h3{
-	color:black;
+	color:#19181A;	
 }
 h5 {
 	font-weight:bold;
 }
 .page-footer{
 	background-color:#B19F9E;
-	color:black;
+	color:#19181A;
 }
 a{
-	color:black;
+	color:#19181A;
 	font-weight:bold;
 }
 a:link{}
