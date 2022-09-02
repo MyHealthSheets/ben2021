@@ -13,9 +13,9 @@
 
      /\--------------------/\
      |			            |
-     | Thanks for checking  |
-     |   out my site!       |
-     |                      |
+     | Thanks for checking  |           I created this site to keep a record
+     |   out my site!       |           of the projects I have been working on
+     |                      |           over the years. 
      \/--------------------\/
        \
        	\
