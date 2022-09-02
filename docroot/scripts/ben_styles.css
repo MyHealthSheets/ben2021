@@ -128,7 +128,9 @@ a:active { text-decoration: none; }
 	padding-bottom:3rem;
 	background-color:#B19F9E;
 	color:#19181A;
+	border-top:5px solid #A16E83;
 }
+
 a{
 	color:#19181A;
 	font-weight:bold;
@@ -136,10 +138,6 @@ a{
 hr{
 	border-bottom:3px solid #A16E83;
 }
-
-a:link{}
-a:active{color:#000000;}
-a:hover{color:#FF8D3F}
 
 .accordion{
 	padding:5rem 2rem 5rem 2rem;
