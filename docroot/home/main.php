@@ -2,7 +2,7 @@
 		<div class="card">
 				<a class="card-header" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
 					
-						General Background
+						<h2>General Background</h2>
 				</a>
 		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 				<div class="collapse multi-collapse" id="GenCollapse">
