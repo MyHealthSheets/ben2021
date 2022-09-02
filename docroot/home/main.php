@@ -1,13 +1,12 @@
 	<div class="container">
 		<div class="card">
-				<div class="card-header">
-<!--					<a class="collapsed card-link" data-toggle="collapse" href="#collapseGen">	-->					
-					<h2><b>General</b></h2> 
+				<div class="card-header">				
+				<h2><b>General</b>
+					<a class="btn btn-primary" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">General Background</a>
+				</h2> 
 				</div>
 		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
-
 				<div class="collapse multi-collapse" id="GenCollapse">
-					<a class="btn btn-primary" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">General Background</a>
 
 					<div class="card card-body">
 						<p class="card-text">I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
