@@ -2,7 +2,7 @@
 		<div class="card">
 				<div class="card-header">
 <!--					<a class="collapsed card-link" data-toggle="collapse" href="#collapseGen">	-->					
-					<h3><b>General</b></h3> 
+					<h2><b>General</b></h2> 
 				</div>
 		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 					<div class="card-body">
@@ -36,7 +36,7 @@
 				<div class="card-header">
 				<!--		<a class="collapsed card-link" data-toggle="collapse" href="#collapsePi">
 						<button class="btn btn-Dark" data-toggle="collapse" data-bs-toggle="collapse"  >
-			     -->   <h3>Raspbery Pi Projects</h3>
+			     -->   <h2>Raspbery Pi Projects</h2>
 				</div>
 		<!--		<div id="collapsePi" class="collapse" data-parent="#accordion"> --> 
 					<div class="card-body" style="text-align:center;">
@@ -102,7 +102,7 @@
 
 			<div class="card">
 				<div class="card-header">
-					<h3>Web Apps </h3>
+					<h2>Web Apps </h2>
 				</div>
 				<div class="card-body" style="text-align:left;">
 					<ul>
@@ -119,7 +119,7 @@
 
 			<div class="card">
 					<div class="card-header">
-						<h3>Mobile Apps </h3>
+						<h2>Mobile Apps </h2>
 					</div>
 					<div class="card-body" style="text-align:left;">
 						<ul>
