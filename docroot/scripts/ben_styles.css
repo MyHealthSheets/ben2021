@@ -13,7 +13,7 @@
 	color:#19181A;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
-	padding: 5rem;
+	padding: 2rem;
 	border-top:3px solid #CEBC81;
 	border-bottom:3px solid #CEBC81;
 }
@@ -52,7 +52,7 @@ body{
 	color:#19181A;
 	text-align:left;
 	padding:0rem;
-	margin:1rem 0rem 5rem 0rem;
+	margin:1rem 0rem 3rem;
 /*	border-radius:1px 1px 1px 1px; 
 	box-shadow: 1px 1px 3px black inset;
 */
@@ -85,7 +85,7 @@ box-shadow: 1px 2px 10px black inset;
 
 .card-body{
 	text-align:center;
-	margin: 3rem 0rem 3rem 0rem;
+	margin: 3rem 0rem 3rem;
 	padding:0.5rem;
 }
 
