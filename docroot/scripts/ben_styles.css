@@ -1,12 +1,13 @@
 .jumbotron
 {
-/*	background-image: url('/images/Turtle.jpg'); */
+
+/*	background-color:#D5D6D2; 
+ 	style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	font-family:Comic Sans MS;
 	background-color: #A16E83; 
 	color:#B19F9E;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
-	/* box-shadow: 2px 2px 2px black; */
 	padding: 2rem 2rem 0rem 1rem;
 	margin-bottom:0.5rem;
 }
@@ -21,7 +22,9 @@
 }
 
 .wrapper{
-/*	background-color:#D5D6D2; */
+/*	background-color:#D5D6D2; 
+jumbo
+ style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	background-color:#479761;
 /*E4E3E3;756867	*/
 }
