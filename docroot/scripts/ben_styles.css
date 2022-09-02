@@ -2,6 +2,7 @@
 	background-color:#479761;
 	color:#19181A;	
 	padding:2rem 0rem 2rem 0rem;
+	border-top:6px solid #CEBC81;
 }
 
 .jumbotron
@@ -15,7 +16,7 @@
 	text-align:center;
 	padding: 2rem;
 	border-top:3px solid #CEBC81;
-	border-bottom:3px solid #CEBC81;
+	border-bottom:6px solid #CEBC81;
 }
 
 .jumbotron .lead .p{
@@ -68,7 +69,6 @@ box-shadow: 1px 2px 10px black inset;
 }	
 .card-header, .card-header:first-child{		
 	padding-top:2rem;
-	margin:0rem;
 	padding-bottom:2rem;
 	color:#19181A/*D8CFD0*/;
 	font-weight:bold;
@@ -79,7 +79,7 @@ box-shadow: 1px 2px 10px black inset;
 	border-radius:1px 1px 0 0;
 	box-shadow: 3px 1px 1px #353C3F;
 	box-shadow:2px 5px 5px black outset; */
-	border-bottom:8px solid #CEBC81;
+	border-bottom:3px solid #CEBC81;
 	box-shadow: 1px 2px 5px black inset;
 }
 
