@@ -16,6 +16,8 @@
 	padding: 5rem 5rem 0rem 1rem;
 	border-top:3px solid #CEBC81;
 	border-bottom:3px solid #CEBC81;
+	box-shadow: 1px 1px 3px black inset;
+
 }
 
 .jumbotron .lead .p{
@@ -29,8 +31,6 @@
 
 .wrapper{
 /*	background-color:#D5D6D2; 
-jumbo
- style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	background-color:#19181A;
 /*E4E3E3;756867	*/
 }
