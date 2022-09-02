@@ -44,10 +44,11 @@
 						<li> <h5>OpenHAB (Smart Home Server)</h5>
 							<p> Open Source PHP Web Application is a tool to setup and control Smart Home
 							devices from a Web Browser. <br><a href="https://www.openhab.org/" Use target="_blank"> Click this link to learn more about OpenHAB</a>
-							</p><hr>
+							</p>
+							<hr>
 						</li>    
 						<li>
-							<h5>Personal PHP Web site projects </h5>
+							<h5> PHP Web site projects </h5>
 							<p>I have been developing a couple PHP based Web sites/applications for practice.
 							This site is a simple PHP application, however I also have a demo Web Application for myhealthsheets.com. I do most of my dev work on my Raspberry Pi, then push this to a Web Server when ready for production.
 							</p> 
@@ -59,10 +60,9 @@
 							</p> 
 						</li><hr >  
 						<li>
-						<h5>Owncloud Server</h5>
+							<h5>Owncloud Server</h5>
 						<p> Personal File Server similar to Dropbox and other Applications. This allows me to share files with family and friends without any free tier storage size limitations.
 						</li><hr >
-
 						<li>
 							<h5>Drupal Web Application</h5>
 									<p>Created some basic Drupal Applications for practice. 
@@ -71,15 +71,15 @@
 									</p>
 						</li>
 								<hr >
-							<li>
-							<h5>MiniDLNA, Plex and Kodi Media Servers</h5>
+						<li>
+							<h5>SMB, MiniDLNA, Plex and Kodi Media Servers</h5>
 								<p>I worked various technologies like this in order to share media content across my home network. These applications allow any TV or monitor attached to the network to 
 								browse and watch any type of Media Content. <a href="https://pimylifeup.com/raspberrypi-minidlna/" Use target="_blank">This link will take you to a great doc on how to setup miniDLNA
 								more details.</a>
 								</p>
 						</li><hr >
 						<li>
-							<h5>RetroPIE - EmulationStation for Raspberry Pi</h5>
+							<h5>RetroPIE - Game Emulator for Raspberry Pi</h5>
 							<p>This turns any Raspi into a retro-gaming machine. Allows you to play just about
 							all retro gaming consoles through your raspberry Pi.This is a fun project that you can
 							also setup with NES or other type cases and utilize BT joysticks that look like
@@ -102,7 +102,7 @@
 
 			<div class="card">
 				<div class="card-header">
-					<h3>Web Applications </h3>
+					<h3>Web Apps </h3>
 				</div>
 				<div class="card-body" style="text-align:left;">
 					<ul>
@@ -119,7 +119,7 @@
 
 			<div class="card">
 					<div class="card-header">
-						<h3>Mobile Applications </h3>
+						<h3>Mobile Apps </h3>
 					</div>
 					<div class="card-body" style="text-align:left;">
 						<ul>
