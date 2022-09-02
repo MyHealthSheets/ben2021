@@ -2,7 +2,7 @@
 		<div class="card">
 				<div class="card-header">
 <!--					<a class="collapsed card-link" data-toggle="collapse" href="#collapseGen">	-->					
-					<h3><b>General Background!!!</b></h3> 
+					<h3><b>General</b></h3> 
 				</div>
 		<!--		<div id="collapseGen" class="collapse" data-parent="#accordion">  -->
 					<div class="card-body">

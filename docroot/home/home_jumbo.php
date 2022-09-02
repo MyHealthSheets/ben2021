@@ -1,7 +1,7 @@
- <div class="p-3 text-center" >
-<!--   <div class="jumbotron jumbrotron-fluid" style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;">
- -->    <div class="container-fluid">
-        <div class="row">
+  <!--   <div class="p-3 text-center" > -->
+    <div class="jumbotron jumbrotron-fluid">
+        <div class="container-fluid">
+            <div class="row">
 <!--            <div class="col-lg-3">
                 <img src="images/me_ish.jpg" width="250px" height="305px";>
             </div>	
