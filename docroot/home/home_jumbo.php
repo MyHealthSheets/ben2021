@@ -6,11 +6,10 @@
                 <img src="images/me_ish.jpg" width="250px" height="305px";>
             </div>	
  -->           <div class="col-lg-2">
-
-            </div>
+            </div>  
             <div class="col-lg-7 justify-content-center">
                 <h1><br><b>Benjamin Citren</b></h1><hr/>
-                <pre style="color:#B19F9E;border-top:0.25px solid #FF8D3F;">
+                <pre style="color:#19181A;border-top:0.25px solid #FF8D3F;">
 
      /\--------------------/\
      |			    |
