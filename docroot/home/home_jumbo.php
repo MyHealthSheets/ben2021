@@ -11,15 +11,15 @@
                 <h1><br><b>Benjamin Citren</b></h1><hr/>
                 <pre style="color:#19181A;">
 
-     /\--------------------/\
-     |			            |
-     | Thanks for checking  |           I created this site to keep a record
-     |   out my site!       |           of the projects I have been working on
-     |                      |           over the years. 
-     \/--------------------\/
-       \
-       	\
-	     \
+      |------------------------------------------|
+     /                                            \
+    |    I created this site to keep a record      |  
+    |   of the projects I have been working on     |
+    |   over the years.                            |
+     \____________________________________________/    
+         \                                             
+          \
+           \
         .--.
        |o_o |
        |:_/ |
