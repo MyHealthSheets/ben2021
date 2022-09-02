@@ -52,7 +52,7 @@
 							<p>I have been developing a couple PHP based Web sites/applications for practice.
 							This site is a simple PHP application, however I also have a demo Web Application for myhealthsheets.com. I do most of my dev work on my Raspberry Pi, then push this to a Web Server when ready for production.
 							</p> 
-							<hr >
+							<hr>
 						</li>
 						<li>
 							<h5>Personal Ebook Server using Calibre</h5>

@@ -9,14 +9,15 @@
         </div>  
 -->
         <div class="col-lg-7 justify-content-center">
-            <h1><br><b>Benjamin Citren</b></h1><hr/>
+            <h1><br><b>Benjamin Citren</b></h1>
         </div>
             <hr><hr>
             <div class="col-lg-7 justify-content-center">
                 <p>
                     Hello! I created this site to keep a record of the projects I have been working on ver the years.     
-<               /p>
+                </p>
             </div>
+                <hr>
                 <pre style="color:#19181A;">  
         .--.
        |o_o |
