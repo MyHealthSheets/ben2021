@@ -9,7 +9,7 @@
         </div>  
 -->
         <div class="col-lg justify-content-center">
-            <h1><br><b>Benjamin Citren</b></h1>
+            <h1><br><b>Benjamin Citren</b></h1></br>
         </div>
             <hr>
             <div class="col-lg justify-content-center">
