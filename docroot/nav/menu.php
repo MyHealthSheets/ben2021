@@ -6,10 +6,13 @@
 		  <div class="collapse navbar-collapse " id="navbarsExample03">
 			<ul class="navbar-nav mr-auto">
 			  <li class="nav-item active">
-				<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+				<a class="nav-link" href="#">Home <span class="sr-only"></span></a>
 			  </li>
 			  <li class="nav-item">
 				<a class="nav-link" href="https://www.myhealthsheets.com">MyHS (Web App)</a>
+			  </li>
+			  	<li class="nav-item">
+				<a class="nav-link" href="#">Other</a>
 			  </li>
 			</ul>
 		  </div>
