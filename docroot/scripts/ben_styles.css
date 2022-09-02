@@ -117,6 +117,8 @@ h5 {
 	font-weight:bold;
 }
 .page-footer{
+	padding-top:3rem;
+	padding-bottom:3rem;
 	background-color:#B19F9E;
 	color:#19181A;
 }
