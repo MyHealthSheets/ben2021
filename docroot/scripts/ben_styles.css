@@ -17,6 +17,8 @@
 	padding: 2rem;
 	border-top:5px solid #19181A;
 	border-bottom:5px solid #CEBC81;
+	box-shadow: 1px 2px 6px black inset;
+
 }
 
 .jumbotron .lead .p{
