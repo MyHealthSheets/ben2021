@@ -5,7 +5,25 @@
 				</a>
 				<div class="collapse multi-collapse" id="GenCollapse">
 					<div class="card card-body">
-						<p class="card-text">I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
+						<p class="card-text">
+							I have always been interesting in Technology. First electronics, I always wanted to 
+							understand how they worked. My family first got a PC when I was about 11, I then quickly became interested in computers, wanting to understand them
+							better from both a software and hardware perspective.
+
+							After High School I decided to persue Electronics further and ended up completing a three year Electronics
+							Technologist Co-op Diploma.
+
+							I was able to work across various industries with this knowledge, repairing/installing and configuring Consumer and 
+							Industrial Electronics equipment. However I quickly realized, although grateful for this knowledge, I still needed
+							to pursue my passion in Software.
+
+							In 2012 I graduated from a two year Software Programming Diploma. Although, admittedly after graduating I wasn't very confident
+							in my software development skills, I would spend the next decade working on my own projects (some listed below). Through working 
+							as a Support Engineer in the industry, I have gained a wealth of knowledge not only in programming, but also in the technology industry.
+							
+
+						
+							I have always been interesting in Electronics and Computers. It probably started in my pre-teens, taking apart mine (and my family's) Electronic Devices to try and understand them better.
 							I often left them in pieces or put back together with one or more parts missing. I think partly seeing these boxes of broken Electronics is what ultimately helped me decide to go to college and graduate with an Electronics Technologist Diploma. 
 						</p>
 						<p>
