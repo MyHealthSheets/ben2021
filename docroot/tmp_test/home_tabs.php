@@ -1,9 +1,9 @@
-<?php include "nav/header.php"; ?>
-<html>
+<?php include "/nav/header.php"; ?>
 <div class="wrapper">
-<body>
-    <?php include "nav/menu.php"; ?>
-    <?php include "home/home_jumbo.php"; ?>
+	<body>
+		<?php include "/nav/menu.php"; ?>
+		<?php include "/home/home_jumbo.php"; ?>
+		<html>
 
 
 
@@ -149,7 +149,7 @@
 <body>
 
 </div>
-<?php include "nav/footer.php"; ?>
+<?php include "/nav/footer.php"; ?>
 
 <script>
 	
