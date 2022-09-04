@@ -1,8 +1,8 @@
-<?php include "/nav/header.php"; ?>
+<?php include "/docroot/nav/header.php"; ?>
 <div class="wrapper">
 	<body>
-		<?php include "/nav/menu.php"; ?>
-		<?php include "/home/home_jumbo.php"; ?>
+		<?php include "/docroot/nav/menu.php"; ?>
+		<?php include "/docroot/home/home_jumbo.php"; ?>
 		<html>
 
 
