@@ -1,4 +1,4 @@
-<?php include "/docroot/nav/header.php"; ?>
+<?php include "../nav/header.php"; ?>
 <div class="wrapper">
 	<body>
 		<?php include "/docroot/nav/menu.php"; ?>
