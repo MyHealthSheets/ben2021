@@ -6,43 +6,18 @@
 				<div class="collapse multi-collapse" id="GenCollapse">
 					<div class="card card-body">
 						<p class="card-text">
-							I have backgrounds in both Electronics and Computers. I originally graduated with a 
-							three year Electronics Technologist Co-op Diploma in 2005. In 2010 I finally decided to go back to
-							school for Computer Programming and graduated with a two year diploma.
+							I have backgrounds in both Electronics and Computer Programming. 
 
 							I do my best to keep up with and learn new technologies, and am always working on 
-							projects in my spare time to do this. I spent several years developing my Android Application
-							"MyHealthSheets". In order to get more familiar with other programming languages and frameworks, I have forked 
+							projects in my spare time to achieve this. I spent several years developing an Android Application,
+							"MyHealthSheets". In order to get more familiar with other programming languages and frameworks, I have redeveloped 
 							this Android App and used it as a skeleton for other projects.
 
-							I continue working on various Electronics projects, and with the advent of IoT technologies have been
-							able to combine my two passions while working on various projects. I have an arsenal of Arduino, ESP32, and Electronics 
+							I continue working on a variety Electronics projects, and with the advent of IoT technologies have been
+							able to combine my two passions of Electronics and Development. I have an arsenal of Arduino, ESP32, SMC's, and Electronics 
 							Components to work with.
 
 							My other projects revolve around Web Servers, both on the cloud and utilizing hardware like the Raspberry Pi.
-							This allows me to continue working on my skills in Networking, and Linux.
-
-
-							
-						</p>
-						<p>
-							From there I worked in various industries utilizing these skills until realizing what I really
-							wanted to do was work with Computers and Computer Software.
-						</p>
-						<p>
-							I received my Software Programming Diploma in 2012 and have been continuing to learn new technologies every
-							opportunity I get.
-						</p>
-						<p>	
-							The Electronics industry has changed consderably since I graduated in 2004, and this was the dawn of IoT technologies
-							and SoC circuits like Arduino and picoPY. I have created simple LED lights working with sensors and timers, and more complex
-							projects with Bluetooth and Audio Amplifiers. 
-						</p>
-						<p>
-							For a more fullstack programming experience I have created many projects with SBC's, like the Raspberry Pi. I have 
-							projects ranging from a Car Entertainment System, Open Source Home Automation Software, Drupal and PHP Web Applications, along
-							with many others. The Raspberry Pi has also allowed me to work through the Command Line and making sure my skills don't 
-							get forgetten.
 						</p>
 					</div>
 				</div>
