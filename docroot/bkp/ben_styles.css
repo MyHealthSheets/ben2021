@@ -2,7 +2,7 @@
 	background-color:#479761;
 	color:#19181A;	
 	padding:2rem 0rem 2rem 0rem;
-	border-top:5px solid #B73225;
+/*	border-top:5px solid #B73225;/*
 }
 
 .jumbotron
@@ -16,7 +16,7 @@
 	text-align:center;
 	padding: 2rem;
 	border-top:5px solid #B73225;
-	border-bottom:5px solid #B73225;
+/*	border-bottom:5px solid #B73225;/*
 /*	box-shadow: 1px 1px 3px black inset;
 */
 }
