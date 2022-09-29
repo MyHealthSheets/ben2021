@@ -10,7 +10,7 @@
 							<p> Open Source PHP Web Application is a tool to setup and control Smart Home
 							devices from a Web Browser. <br><a href="https://www.openhab.org/" Use target="_blank"> Click this link to learn more about OpenHAB</a>
 							</p>
-							<img src="../images/app_pics/ohab_condo1.png" class="img-thumbnail" alt="...">
+							<img src="../images/app_pics/ohab_condo1.png" class="img-fluid" alt="...">
 							<img src="../images/app_pics/ohab_tv.png" class="img-thumbnail" alt="...">
 							<hr>
 						</li>    
