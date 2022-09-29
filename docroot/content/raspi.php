@@ -11,9 +11,7 @@
 							devices from a Web Browser. <br><a href="https://www.openhab.org/" Use target="_blank"> Click this link to learn more about OpenHAB</a>
 							</p>
 							<img src="../images/app_pics/ohab_condo1.png" class="img-thumbnail" alt="...">
-							<img src="..." class="img-thumbnail" alt="...">
-							<img src="..." class="img-thumbnail" alt="...">
-
+							<img src="../images/app_pics/ohab_tv.png" class="img-thumbnail" alt="...">
 							<hr>
 						</li>    
 						<li>
