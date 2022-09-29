@@ -13,7 +13,7 @@
 							
 							<div class="col-lg-3 col-md-4 col-6">
 								<a href="#" class="d-block mb-4 h-100">
-									<img class="img-fluid img-thumbnail" src="../images/app_pics/ohab_condo1.png" alt="">
+									<img class="img-fluid img-thumbnail" src="../images/app_pics/ohab_condo1.png" alt="hi">
 								</a>
 							</div>
 							<div class="col-lg-3 col-md-4 col-6">
