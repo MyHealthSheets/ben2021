@@ -1,18 +1,18 @@
 .navbar{
 	background-color:#353C3F /*479761*/;
-	color:#D8CFD0;	
+	color:#D8CFD0;
 	padding:2rem 0rem 2rem 0rem;
-/*	border-top:5px solid #B73225; 
+/*	border-top:5px solid #B73225;
 */
 }
 
 .jumbotron
 {
-/*	background-color:#D5D6D2; 
+/*	background-color:#D5D6D2;
  	style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	font-family:Comic Sans MS;
-	background-color: #756867; 
-	color:#D8CFD0 /*19181A*/;	
+	background-color: #756867;
+	color:#D8CFD0 /*19181A*/;
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
 	padding: 2rem;
@@ -32,7 +32,7 @@
 }
 
 .wrapper{
-/*	background-color:#D5D6D2; 
+/*	background-color:#D5D6D2;
 jumbo
  style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	background-color:#353C3F /*19181A*/;
@@ -51,7 +51,7 @@ jumbo
 	text-align:left;
 	padding:0rem;
 	margin:1rem 0rem 3rem;
-/*	border-radius:1px 1px 1px 1px; 
+/*	border-radius:1px 1px 1px 1px;
 	box-shadow: 1px 1px 3px black inset;
 */
 box-shadow: 1px 2px 10px black inset;
@@ -61,22 +61,22 @@ box-shadow: 1px 2px 10px black inset;
 	font-family: Comic Sans MS;
 }
 .card-title{
-	border-radius:0px; 
+	border-radius:0px;
 	font-size:2px;
-}	
-.card-header, .card-header:first-child{		
+}
+.card-header, .card-header:first-child{
 	padding-top:2rem;
 	padding-bottom:2rem;
-	color:#FF8D3F /*19181A/*D8CFD0*/;
+	color:#19181A /*D8CFD0*/;
 	font-weight:bold;
 	text-align:center;
 /*	background-color:#B9B6B5;*/
-	background-color:#FF8D3F /*#479761*/;
+	background-color:#756867 /*#479761*/;
 /*	background-color:#413F3D;
 	border-radius:1px 1px 0 0;
 	box-shadow: 3px 1px 1px #353C3F;
-	box-shadow:2px 5px 5px black outset; 
-	border-bottom:3px solid #CEBC81; 
+	box-shadow:2px 5px 5px black outset;
+	border-bottom:3px solid #CEBC81;
 	box-shadow: 1px 2px 2px black inset;
 */
 }
@@ -98,16 +98,16 @@ box-shadow: 1px 2px 10px black inset;
 	background-color:#353C3F;
 	padding-left:0rem;
 
-} 
+}
 h1{
-	color:#D8CFD0;	
+	color:#D8CFD0;
 }
 h2{
-	color:#19181A;	
+	color:#19181A;
 	font-weight:bold;
 }
 h3{
-	color:#19181A;	
+	color:#19181A;
 }
 h5 {
 	font-weight:bold;
@@ -123,7 +123,7 @@ a{
 .page-footer{
 	padding-top:3rem;
 	padding-bottom:3rem;
-	background-color: #D8CFD0; 
+	background-color: #D8CFD0;
 	color:#19181A;
 }
 
@@ -155,7 +155,7 @@ COLOR SCHEMES
 --------------------------------------
 OG SCHEME
 	ORANGE #FF8D3F
-	PALE BLAKE background-color: #353C3F; 
+	PALE BLAKE background-color: #353C3F;
 	LIGHT GREY #D5D6D2
 	LESS-LIGHT GREY #D8CFD0
 	BROWN
