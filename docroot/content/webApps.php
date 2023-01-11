@@ -1,9 +1,9 @@
 <div class="card">
-    <a class="card-header" data-bs-toggle="collapse" href="#WebCollapse" role="button" aria-expanded="false" aria-controls="WebCollapse">
+        <a class="card-header" data-bs-toggle="collapse" href="#MobileCollapse" role="button" aria-expanded="false" aria-controls="MobileCollapse">
             <h2>Web Apps</h2>
-    </a>
-    <div class="collapse multi-collapse" id="WebCollapse">	
-        <div class="card card-body" style="text-align:left;">
+        </a>
+        <div class="collapse multi-collapse" id="MobileCollapse">
+            <div class="card-body">
             <ul>
                 <li><b></b> I have been working with Web Application Technologies for over 5 years. However my recent experience at Acquia has allowed me to have
                 a much deeper knowledge of how Web Applications work, how to set them up properly and correct develoment practices.
@@ -13,6 +13,6 @@
                 <li><b></b> I have worked with many different Web Application Technologies and
                 and languages. Most recentley I have been mostly using PHP, </>
             </ul>
+            </div>
         </div>
-    </div>
 </div>
