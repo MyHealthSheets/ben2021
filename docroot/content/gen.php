@@ -1,11 +1,11 @@
 <div class="card">
-    <a class="card-header" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="GenCollapse">
-            <h2>General Background</h2>
+    <a class="card-header" data-bs-toggle="collapse" href="#PiCollapse" role="button" aria-expanded="false" aria-controls="PiCollapse">
+        <h2>General Background</h2>
     </a>
-    <div class="collapse multi-collapse" id="GenCollapse">
-        <div class="card card-body">
+    <div class="collapse multi-collapse" id="PiCollapse">	
+        <div class="card-body" style="text-align:center;">
             <p class="card-text">
-                I have backgrounds in both Electronics and Computer Programming.
+            I have backgrounds in both Electronics and Computer Programming.
             </p>
             <p>
                 I do my best to keep up with and learn new technologies, and am always working on 
