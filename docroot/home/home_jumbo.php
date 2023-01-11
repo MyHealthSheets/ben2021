@@ -18,7 +18,7 @@
                 </p>
             </div>
                 <hr>
-                <pre style="color:#19181A;">  
+                <pre style="color:#D8CFD0;">  
         .--.
        |o_o |
        |:_/ |
