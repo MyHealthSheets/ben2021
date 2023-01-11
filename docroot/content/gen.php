@@ -18,6 +18,7 @@
                 able to combine my two passions of Electronics and Development. I have an arsenal of Arduino, ESP32, SMC's, and Electronics 
                 Components to work with.
             </p>
+            <p>
                 My other projects revolve around Web Servers, both on the cloud and utilizing hardware like the Raspberry Pi.
             </p>
         </div>
