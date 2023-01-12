@@ -15,11 +15,11 @@
             </p>
             <p>
                 I continue working on a variety Electronics projects, and with the advent of IoT technologies have been
-                able to combine my two passions of Electronics and Development. I have an arsenal of Arduino, ESP32, SMC's, and Electronics 
+                able to combine my two passions of Electronics and Software Development. I have an arsenal of Electronics (thanks Ebay), some including; Arduino, ESP32, SBC's, and Electronics 
                 Components to work with.
             </p>
             <p>
-                My other projects revolve around Web Servers, both on the cloud and utilizing hardware like the Raspberry Pi.
+                My other projects revolve around Web Servers, both on the Cloud and utilizing Raspberry Pi's.
             </p>
         </div>
     </div>
