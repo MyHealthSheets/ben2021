@@ -1,8 +1,8 @@
 <div class="card">
-        <a class="card-header" data-bs-toggle="collapse" href="#MobileCollapse" role="button" aria-expanded="false" aria-controls="MobileCollapse">
+        <a class="card-header" data-bs-toggle="collapse" href="#WebCollapse" role="button" aria-expanded="false" aria-controls="WebCollapse">
             <h2>Web Apps</h2>
         </a>
-        <div class="collapse multi-collapse" id="MobileCollapse">
+        <div class="collapse multi-collapse" id="WebCollapse">
             <div class="card-body">
             <ul>
                 <li><b></b> I have been working with Web Application Technologies for over 5 years. However my recent experience at Acquia has allowed me to have
