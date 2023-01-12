@@ -2,7 +2,7 @@
     <a class="card-header" data-bs-toggle="collapse" href="#GenCollapse" role="button" aria-expanded="false" aria-controls="GenCollapse">
         <h2>General Background</h2>
     </a>
-    <div class="collapse multi-collapse" id="GenCollapse">	
+    <div class="collapse show" id="GenCollapse">
         <div class="card-body" style="text-align:center;">
             <p class="card-text">
             I have backgrounds in both Electronics and Computer Programming.
@@ -24,3 +24,5 @@
         </div>
     </div>
 </div>
+
+

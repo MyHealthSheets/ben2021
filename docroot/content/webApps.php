@@ -2,7 +2,7 @@
         <a class="card-header" data-bs-toggle="collapse" href="#WebCollapse" role="button" aria-expanded="false" aria-controls="WebCollapse">
             <h2>Web Apps</h2>
         </a>
-        <div class="collapse multi-collapse" id="WebCollapse">
+        <div class="collapse show" id="WebCollapse">
             <div class="card-body">
             <ul>
                 <li><b></b> I have been working with Web Application Technologies for over 5 years. However my experience working at Acquia has allowed me to have

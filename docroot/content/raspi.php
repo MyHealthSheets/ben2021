@@ -3,7 +3,7 @@
     
         <h2>Raspbery Pi Projects</h2>
     </a>
-    <div class="collapse multi-collapse" id="PiCollapse">	
+    <div class="collapse show" id="PiCollapse">	
 				<div class="card-body" style="text-align:center;">
 						<ul style="list-style-type:none">
 						<li> <h5>OpenHAB (Smart Home Server)</h5>

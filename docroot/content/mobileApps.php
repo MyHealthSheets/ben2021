@@ -2,7 +2,7 @@
         <a class="card-header" data-bs-toggle="collapse" href="#MobileCollapse" role="button" aria-expanded="false" aria-controls="MobileCollapse">
             <h2>Mobile Apps</h2>
         </a>
-        <div class="collapse multi-collapse" id="MobileCollapse">
+        <div class="collapse show" id="MobileCollapse">
             <div class="card-body">
                 <ul>
                     <li>I have built a fairly extensive Android Application from scratch. 
