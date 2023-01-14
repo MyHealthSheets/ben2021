@@ -1,6 +1,6 @@
 .navbar{
-	background-color:#353C3F /*479761*/;
-	color:#D8CFD0;	
+	background-color:#323232;
+	color:#ddd0c8;	
 	padding:2rem 0rem 2rem 0rem;
 /*	border-top:5px solid #B73225; 
 */
@@ -11,8 +11,8 @@
 /*	background-color:#D5D6D2; 
  	style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
 	font-family:Comic Sans MS;
-	background-color: #756867; 
-	color:#D8CFD0 /*19181A*/;	
+	background-color: #666260; 
+	color:#ddd0c8 /*19181A*/;	
 	border-radius:0px 0px 0px 0px;
 	text-align:center;
 	padding: 2rem;
@@ -24,38 +24,38 @@
 }
 
 .jumbotron .lead .p{
-	color:#D8CFD0;
+	color:#ddd0c8;
 	font-family:Comic Sans MS;
 }
 
 .lead {
-    color:#D8CFD0;
+    color:#ddd0c8;
 }
 
 .wrapper{
 /*	background-color:#D5D6D2; 
 jumbo
  style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
-	background-color:#353C3F /*19181A*/;
+	background-color:#323232 /*19181A*/;
 /*E4E3E3;756867	*/
 }
 
 .main {
-	background-color:#353C3F;
+	background-color:#323232;
 }
 
 
 .card{
 	font-family:Comic Sans MS;
-	background-color:#756867 /*D5D6D2 D8CFD0*/;
-	color:#D8CFD0;
+	background-color:#ddd0c8 /*D5D6D2 D8CFD0*/;
+	color:black;
 	text-align:left;
 	padding:0rem;
 	margin:1rem 0rem 3rem;
 /*	border-radius:1px 1px 1px 1px; 
 	box-shadow: 1px 1px 3px black inset;
 */
-box-shadow: 1px 1px 10px black inset;
+box-shadow: 1px 1px 5px black inset;
 }
 
 .card-text{
@@ -68,9 +68,8 @@ box-shadow: 1px 1px 10px black inset;
 
 .card-header, .card-header:first-child{		
 	padding-top:2rem;
-	
 	padding-bottom:2rem;
-	color:#D8CFD0 /*19181A/*D8CFD0*/;
+	color:black /*19181A/*D8CFD0*/;
 	font-weight:bold;
 	text-align:center;
 /*	background-color:#B9B6B5;*/
@@ -98,16 +97,16 @@ box-shadow: 1px 1px 10px black inset;
 	padding-bottom:10rem;
 	padding-top:8rem;
 	text-align:center;
-	background-color:#353C3F;
+	background-color:#323232;
 	padding-left:0rem;
 
 } 
 h1{
-	color:#D8CFD0;	
+	color:#ddd0c8;	
 }
 
 h2{
-	color:#D8CFD0;	
+	color:black;	
 	font-weight:bold;
 }
 h3{
@@ -121,25 +120,25 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: none;}
 a:active { text-decoration: none; }
 a{
-	color:#b9b9b9;
+	color:black;
 	font-weight:bold;
 }
 .page-footer{
 	padding-top:3rem;
 	padding-bottom:3rem;
-	background-color: #D8CFD0; 
-	color:#19181A;
+	background-color: #666260; 
+	color:black;
 box-shadow: 1px 2px 1px black inset;
 }
 
 .card-header:hover,h2:hover{
-	background-color:#635858;
-        color:white;
+	background-color:#a09792;
+        color:black;
 }
 
 
 hr{
-	border-bottom:3px solid #A16E83;
+	border-bottom:1px solid #DDD0C8;
 }
 
 .accordion{

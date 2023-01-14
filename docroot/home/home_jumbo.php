@@ -11,14 +11,14 @@
         <div class="col-lg justify-content-center">
             <h1><br><b>Benjamin Citren</b></h1></br>
         </div>
-            <hr>
+<hr>            
             <div class="col-lg justify-content-center">
                 <p>
                     Hello!!! I created this site to keep a record of the projects I have been working on over the years.     
                 </p>
             </div>
-                <hr>
-                <pre style="color:#D8CFD0;">  
+                
+                <pre style="color:#ddd0c8;">  
         .--.
        |o_o |
        |:_/ |
