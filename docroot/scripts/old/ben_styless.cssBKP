@@ -1,0 +1,231 @@
+.navbar{
+	background-color:#479761;
+	color:#19181A;	
+	padding:2rem 0rem 2rem 0rem;
+	border-top:5px solid #A16E83;
+}
+
+.jumbotron
+{
+/*	background-color:#D5D6D2; 
+ 	style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
+	font-family:Comic Sans MS;
+	background-color: #CEBC81; 
+	color:#19181A;	
+	border-radius:0px 0px 0px 0px;
+	text-align:center;
+	padding: 2rem;
+	border-top:5px solid #A16E83;
+	border-bottom:5px solid #A16E83;
+/*	box-shadow: 1px 1px 3px black inset;
+*/
+}
+
+.jumbotron .lead .p{
+	color:black;
+	font-family:Comic Sans MS;
+}
+
+.lead {
+    color:black;
+}
+
+.wrapper{
+/*	background-color:#D5D6D2; 
+jumbo
+ style="border-radius:0px;border-top:3px solid #D5D6D2;padding-bottom:5rem;*/
+	background-color:#19181A;
+/*E4E3E3;756867	*/
+}
+
+.main {
+	background-color:#19181A;
+}
+
+
+body{
+/*	background-color:#FF8D3F; */
+
+/*#B1A6A4; 
+	 /* background-image: linear-gradient(to top, #222629 , #e6e6e6); */
+}
+.card{
+	font-family:Comic Sans MS;
+	background-color:#B19F9E;
+	color:#19181A;
+	text-align:left;
+	padding:0rem;
+	margin:1rem 0rem 3rem;
+/*	border-radius:1px 1px 1px 1px; 
+	box-shadow: 1px 1px 3px black inset;
+*/
+box-shadow: 1px 2px 10px black inset;
+}
+
+.card-text{
+	font-family: Comic Sans MS;
+}
+.card-title{
+	border-radius:0px; 
+	font-size:2px;
+}	
+.card-header, .card-header:first-child{		
+	padding-top:2rem;
+	padding-bottom:2rem;
+	color:#19181A/*D8CFD0*/;
+	font-weight:bold;
+	text-align:center;
+/*	background-color:#B9B6B5;*/
+	background-color:#479761;
+/*	background-color:#413F3D;
+	border-radius:1px 1px 0 0;
+	box-shadow: 3px 1px 1px #353C3F;
+	box-shadow:2px 5px 5px black outset; */
+	border-bottom:3px solid #CEBC81;
+	box-shadow: 1px 2px 5px black inset;
+}
+
+
+.card-body{
+	text-align:center;
+	margin: 3rem 0rem 3rem;
+	padding:0.5rem;
+}
+
+.main-body {
+	font-family: "Sofia", sans-serif;
+	margin-top:0rem;
+	margin-bottom:8rem;
+	padding-bottom:10rem;
+	padding-top:8rem;
+	text-align:center;
+/*	background-color:#353C3F; */
+	padding-left:0rem;
+
+} 
+h1{
+	color:#19181A;	
+}
+h2{
+	color:#19181A;	
+	font-weight:bold;
+}
+h3{
+	color:#19181A;	
+}
+h5 {
+	font-weight:bold;
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+a{
+	color:#19181A;
+	font-weight:bold;
+}
+.page-footer{
+	padding-top:3rem;
+	padding-bottom:3rem;
+	background-color:#B19F9E;
+	color:#19181A;
+	border-top:5px solid #A16E83;
+}
+
+
+hr{
+	border-bottom:3px solid #A16E83;
+}
+
+.accordion{
+	padding:5rem 2rem 5rem 2rem;
+	margin: 0rem 2rem 5rem 2rem;
+	color:white;
+	background-color:#756867;
+	box-shadow: 1px 2px 10px black inset;
+}
+
+.accordion-body{
+	border-radius:20rem;
+	background-color:#353C3F;
+	color:#D8CFD0;
+	box-shadow: 1px 1px 1px black inset;
+}
+.accordion-button{
+text-align: left;
+}
+/*----------------------------------------------------------------------------
+COLOR SCHEMES
+
+--------------------------------------
+OG SCHEME
+	ORANGE #FF8D3F
+	PALE BLAKE background-color: #353C3F; 
+	LIGHT GREY #D5D6D2
+	LESS-LIGHT GREY #D8CFD0
+	BROWN
+		background-color:#756867;
+--------------------------------------
+
+SCHEME 1
+	Website color scheme #28: Muted and minimal
+	DUSTY #96858F
+	LAVENDAR #6D7993
+	OVERCAST #9099A2
+	PAPER #D5D5D5
+
+SCHEME 2
+	Website color scheme #23: Antique and clean
+	RUST #B56357
+	MINT #B4DBC0
+	SLATE #EAE3EA
+	SEA FOAM #A7B3A5
+
+----------------------------------------------------------------------------
+https://visme.co/blog/website-color-schemes/
+SCHEME 3
+Audacious and Vibrant
+RED: #4C4445
+AQUA: #55BCC9
+BLUE-PURPLE: 97CAEF
+LIGHT BLUE: #CAFAFE
+
+SCHEME 5
+Stylish and Sophisticated
+DARK GREY: #5D5C61
+GREY: #379683
+BLUE: #7395AE
+DARKER BLUE: #557A95
+BROWN: B1A296
+
+SCHEME 6
+Modern and Minimalist
+BLACK: #19181A
+GREEN: #479761
+PALE YELLOW: CEBC81
+ROSE: #A16E83
+GREY: #B19F9E
+style="background-color:#FF8D3F;margin: 1rem 5rem 1rem 5rem;"
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+https://hookagency.com/blog/website-color-schemes/
+
+6 - Sorbet – Mamma Mia Website Color Scheme
+Creme: #f4d8ae
+Tangerine: #dc7027
+Pistachio: #b6c48e
+Peachy: #ea8a81
+Black Cherry: #301008
+
+2. Earthtone Red and Green
+Red Highlight: #B73225
+Blue Minded: #004E7C
+Maroon 6: #591COB
+Grey Water: #5C5F58
+Lighter Grey: #DCE1E3
+
+----------------------------------------------------------------------------
+*/
