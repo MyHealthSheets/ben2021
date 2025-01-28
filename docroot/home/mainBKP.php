@@ -267,7 +267,7 @@ RRaspberry Pi Projects      </button>
 				  </li>
 				</ul>
 			</div>
+		</div>
 	</div>
-</div>
 </div>
 </body>
